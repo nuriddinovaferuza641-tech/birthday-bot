@@ -9,7 +9,7 @@ from aiogram.types import (
     WebAppInfo,
 )
 
-TOKEN = "СЮДА_ВСТАВЬ_ТОКЕН_БОТА"
+TOKEN = "8669392718:AAE7sunjmHwF23F379mCZqQHOO1DmZuSL1U"
 
 dp = Dispatcher()
 
